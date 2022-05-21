@@ -8,3 +8,5 @@ Console.WriteLine("美國隊長也要 PUSH");
 
 Console.WriteLine("緊急修復 master 上的 bug");
 Console.WriteLine("索爾的新工作 1");
+
+Console.WriteLine("1 + 1 = 2");
